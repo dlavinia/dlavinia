@@ -1,9 +1,17 @@
- ### Hey, dev 👋
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
-👩‍🎓 I am currently studying Systems Analysis and Development at the Federal Institute of Education, Science and Technology of Rio Grande do Norte
+<h1> Hey, dev! I'm Débora! </h1>
+<a href="https://www.instagram.com/deboralsm_" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-AA0174?style=flat-square&labelColor=AA0174&logo=instagram&logoColor=white&link=https://www.instagram.com/deboralsm_/"/></a>
+<a href="https://www.linkedin.com/in/deboralsm/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboralsm/"></a>
+<a href="mailto:dlavinia2003@gmail.com" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=fff"/></a>
 
-- for front end web development I'm learning: <br>
+
+<h3>I'm currently studying Systems Analysis and Development at the Federal Institute of Education, Science and Technology of Rio Grande do Norte</h3>
+
+<h3>for front end web development I'm learning: </h3><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JAVASCRIPT"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"  title="HTML5"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3"/> 
